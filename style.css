@@ -1,0 +1,39 @@
+/*
+Namn: Devin Mikalides Kristic
+Klass: TE24c
+*/
+
+body{
+    background-image: url(img/moorish-pattern_644416-582.jpg);
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    color: #00ffea;
+    background-color: #dff5f5;
+    text-align: right;
+}
+
+ul{
+    background-color: #191970;
+    }
+
+    a{
+        color: #FFD700;
+    }
+
+a:hover{
+    color: indigo;
+    background-color: aqua;
+}
+
+a:active{
+    color: greenyellow;
+    background: tomato;
+}
+
+img{
+    height: 120px;
+    width: 120px;
+}
